@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetDownReporter", "NetDownReporter\NetDownReporter.csproj", "{39347CCD-3331-411E-813B-0FA11AE87B30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39347CCD-3331-411E-813B-0FA11AE87B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39347CCD-3331-411E-813B-0FA11AE87B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39347CCD-3331-411E-813B-0FA11AE87B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39347CCD-3331-411E-813B-0FA11AE87B30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {223B44B9-B75E-4439-9B88-C9DCE933F86C}
+	EndGlobalSection
+EndGlobal
